@@ -1,8 +1,6 @@
 # Todo List Application
 
-## Introduction
-
-#### This is a simple Todo List application implemented in TypeScript. It allows users to add, complete, remove, and list todo items, with the additional feature of assigning due dates to tasks.
+This is a simple Todo List application implemented in TypeScript. It allows users to add, complete, remove, and list todo items, with the additional feature of assigning due dates to tasks.
 
 ## Features
 
